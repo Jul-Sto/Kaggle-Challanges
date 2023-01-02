@@ -1,2 +1,2 @@
 # Classifier-Comparison
-Comparison of different Classification models 
+Comparison of different classification models 
