@@ -16,3 +16,8 @@ I decided to deal with missing values in four different ways:
 * Impute using linear regression
 
 The idea now is to train a model for each of those and compare them. The best performing model will then be used to make a contribution to the actual Kaggle Challange.
+
+## Conclusion
+
+* Results of the Kaggle contributions
+* What insights have I gained from this? 
