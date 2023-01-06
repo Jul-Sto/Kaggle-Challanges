@@ -1,4 +1,4 @@
-# Classifier-Comparison
+# Kaggle Titanic Challange
 Comparison of different classification models 
 
 ## Overview 
